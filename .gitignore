@@ -1,4 +1,9 @@
 x64/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.ini
+
 
 # Prerequisites
 *.d

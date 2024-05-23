@@ -2,7 +2,7 @@
 
 A visualization of the Solar System using OpenGL
 
-![Thumb](https://raw.githubusercontent.com/TheJoseph-Dev/SolarSystemGL/main/.github/thumb.jpg?token=GHSAT0AAAAAACP2NA4LZZOUVL4LZW765FQQZQC7AWA)
+![Thumb](.github/thumb.jpg)
 
 ---
 
